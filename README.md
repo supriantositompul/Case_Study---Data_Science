@@ -1,1 +1,1 @@
-# Exercise-Startup-Campus
+# `Study Case Data Science`
